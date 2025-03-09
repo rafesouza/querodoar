@@ -1,1 +1,1 @@
-"O QueroDoar é uma plataforma digital que conecta doadores a instituições de caridade, facilitando doações de alimentos, roupas, dinheiro e outros recursos. Desenvolvido por estudantes de Engenharia de Software, o projeto visa promover a solidariedade e o impacto social por meio da tecnologia."
+"QueroDoar is a digital platform that connects donors to charities, facilitating donations of food, clothing, money and other resources. Developed by Software Engineering students, the project aims to promote solidarity and social impact through technology."
